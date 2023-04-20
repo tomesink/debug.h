@@ -1,7 +1,7 @@
 # debug.h
 Log and debugging macros for C and C++
 
-This header-only library provides a set of enhanced debug macros for C and C++ projects, including log levels, log file support, and better message formatting. It can help you quickly and easily add logging functionality to your project, without the need for a more complex logging library.
+This header-only library provides a set of enhanced debug macros for C and C++ projects, including log levels, log file support, memory checking and better message formatting. It can help you quickly and easily add logging functionality to your project, without the need for a more complex logging library.
 
 ## Features
 
